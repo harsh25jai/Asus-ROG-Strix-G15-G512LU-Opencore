@@ -41,3 +41,5 @@
 <li>Thanks & Kudos to <a href="https://github.com/ehinium">Ehsan Rabipour </a> for Monterey EFI.</li>
 <li>Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for power managment fix.</li>
 <li>Thanks to <a href="https://github.com/ClefairyBlame">ClefairyBlame</a> for trackpad fix.</li>
+
+# Asus ROG Strix G512LU
